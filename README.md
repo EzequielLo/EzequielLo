@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Front-end (angular)
-- 👯 I’m looking to collaborate on angular of TypeScript
+- 🌱 I’m currently learning Front-end (Angular)
+- 👯 I’m looking to collaborate on Angular of TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/ezequiel-lo-iacono-0455a5220/
 
 

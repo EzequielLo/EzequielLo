@@ -1,17 +1,6 @@
-### Hi there 👋
-<h1 align="center">
-I'm a Front-end (Angular) Web Developer 💻!
-</h1> 
-<!--
-**EzequielLo/EzequielLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Ezequiel, a Front-end (Angular) Web Developer 💻!
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 - 🌱 I’m currently learning: </br>
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)

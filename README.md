@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Front-end (Angular)
-- ⚡ Fun fact: I use Vim 
+- ⚡ Fun fact: I use Nvim 
 - ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)

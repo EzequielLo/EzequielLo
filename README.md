@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Front-end (Angular)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)
+- 🌱 I’m currently learning </br>
+- ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)
+
 - ⚡ Fun fact: I use Nvim 
 - ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)

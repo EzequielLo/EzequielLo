@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Ezequiel, a Front-end (Angular) Web Developer 💻!
-
+ 
+### Hi 👋 , I'm Ezequiel, a Front-end Web Developer (Angular) 💻.
 
 
 - 🌱 I’m currently learning: </br>

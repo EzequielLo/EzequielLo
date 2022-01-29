@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning </br>
-- ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)
+- 🌱 I’m currently learning: </br>
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)
 
 - ⚡ Fun fact: I use Nvim 
 - ## 💼 Technical Skills

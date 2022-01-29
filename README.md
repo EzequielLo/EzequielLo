@@ -22,5 +22,5 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 </br>
 
-
-
+## 📈 GitHub Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=EzequielLo)](https://github.com/EzequielLo)

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I use Vim 
 - ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=FF0000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)

@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=1DA1F2)
 
 - ⚡ Fun fact: I use Nvim 
-</br>
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)

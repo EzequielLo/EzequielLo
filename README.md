@@ -3,8 +3,7 @@
 
 
 - 🌱 I’m currently learning: </br>
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=ff2500)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=1DA1F2)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=react&color=1DA1F2)
 
 - ⚡ Fun fact: I use Nvim 
 ## 💼 Technical Skills

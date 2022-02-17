@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning: </br>
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=react&color=1DA1F2)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=1DA1F2)
 
 - ⚡ Fun fact: I use Nvim 
 ## 💼 Technical Skills

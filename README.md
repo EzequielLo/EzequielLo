@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: </br>
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=1DA1F2)
 
-- ⚡ Fun fact: I use ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&color=336791) 
+- ⚡ Fun fact: I use ![](https://img.shields.io/badge/Code-Nvim-informational?style=flat&logo=nvim&color=008000) 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)

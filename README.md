@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning: </br>
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=1DA1F2)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=1DA1F2)
 
 - ⚡ I use: </br>
 ![](https://img.shields.io/badge/Code-Noevim-informational?style=flat&logo=neovim&color=008000)

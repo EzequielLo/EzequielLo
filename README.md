@@ -1,5 +1,5 @@
  
-### Hi 👋 , I'm Ezequiel, a Front-end Web Developer (Angular) 💻.
+### Hi 👋 , I'm Ezequiel, a Front-end Web Developer (Angular).
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)

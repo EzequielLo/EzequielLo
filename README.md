@@ -1,13 +1,6 @@
  
 ### Hi 👋 , I'm Ezequiel, a Front-end Web Developer (Angular) 💻.
 
-
-- 🌱 I’m currently learning: </br>
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=FF6C37)
-
-- ⚡ I use: </br>
-![](https://img.shields.io/badge/Code-Noevim-informational?style=flat&logo=neovim&color=008000)
-
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
